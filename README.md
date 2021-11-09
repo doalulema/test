@@ -10,6 +10,8 @@ Ecuador es un país que se extiende por el ecuador en la costa oeste de Sudamér
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg)
 
+# Escudo
+
 | Comando | Descripción |
 | --- | --- |
 | git status | Enumera todos los archivos nuevos o modificados |
