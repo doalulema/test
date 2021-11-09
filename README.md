@@ -20,3 +20,5 @@ Ecuador es un país que se extiende por el ecuador en la costa oeste de Sudamér
 
 
 ![](https://github.com/doalulema/test/blob/main/img/escudo.jpg)
+![](https://github.com/doalulema/test/blob/main/img/ecuacion.jpg)
+
